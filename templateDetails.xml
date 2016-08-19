@@ -125,4 +125,8 @@
 			</fieldset>
 		</fields>
 	</config>
+	<updateservers>
+		<server type="collection" priority="1" name="Accredited by Alexon Balangue">https://jupdates.alexonbalangue.me/update/joomla/general.xml</server>
+		<server type="extension" priority="2" name="Themes - AdminTLE">https://jupdates.alexonbalangue.me/update/joomla/xml/tpl_adminlte.xml</server>
+	</updateservers>
 </extension>
